@@ -1,0 +1,38 @@
+#1 suppose there are two DEFI protocols P1: xy = c and P2: x+y = 2d.Given two curves meet on 2 points. Consider a situation where the 
+difference in amount of token A on P1 and P2 is D1 and difference in amount of tokenB on P1 and P2 is D2, determine the number of 
+tokenA and tokenB in P2 so that value of D1D2 is maximum. And whats the max value of D1D2 ? Is the derived amount of tokenA and tokenB 
+the same?
+
+#2 suppose there is a liquidity pool U1 with protocol P1: xy = 10 M2 and P2: x+2y = c, A developer wants to create a liquidity pool U2 
+for tokenA and tokenB using protocol P2, how much total amount of tokenA and tokenB should he add to the pool so that amount of tokenA 
+in pool U1 and U2 are equal and also amount of tokenB in pool U1 and U2 are also equal, but only once. 
+ 
+#3 Consider the DEFI protocol P1: xy = c , where c is constant, suppose a user add liquidity by adding 'a' amount of tokenA and 'b' 
+amount of tokenB now the curve changes to xy = c' ,now in the new curve 'a' amount of token is swapped for tokenB, calculate the swapped 
+amount of tokenB? Is the amount of tokenB obtained equal to 'b'?
+
+
+#4 In the DEFI protocol P: xy = c, there is a flash swap by an user, the user A borrowed x1 amount of token0 and he had to repay the 
+borrowed amount in time t1, where  t1 is the time duration between borrowing and repaying, another user during  t1/2 swapped 'p' amount 
+of token0 for token1, suppose swapping works in such a way that input token is given first to protocol and then output the token back to 
+the user, and the duration of the swapping transaction is t2, let us say t1= t2. calculate the gain or loss to user B for the output 
+token1.  
+ 
+#5 In DEFI protocol P: xy = c, liquidity is added by amount x1 and amount y1, let at point A amount of tokenA and tokenB are same, 
+calculate the minimum distance between point A and the new liquidated curve, in terms of, x1 and y1.
+
+#6 In DEFI protocol P: xy = 8M*1M, where 1M=1000000; there is a point A with token0 = 8/3 M and token1 = 8.3  M. There is another point B 
+on the curve, AB subtends 30 degree to origin O. Determine the number of token0 and tpken1 at point B.
+
+#7 Suppose there are two DEFI protocols P1 : xy = c1 and P2 : x + y = c2, consider the situation S where the total liquidity of P1 is 
+twice of P2, what's the relation between the curve of P1 and P2 at situation S ?
+
+#8 There are two DEFI protocols P1 : x2 + y2 = c2, and P2 : xy = 4c2. Determine the position A on P1 such that spot price at P1 and P2 
+are equal, and distance of A from xy =4c2 is minimum.
+
+#9 There are two DEFI protocols P1 : xy = 16c2 and P2 : x + 4y = 10c, find the minimum difference between token1 in protocol P1 and P2. 
+where spot price on P1 is 1/4.
+
+#10 suppose there are three DEFI protocols P1 : xy = 9c2, P2 : x +4y = c and P3 : 4x + y = c, some amount of  token0 and token1 are 
+removed from P1 to achieve the situation where amount of token0 in all protocols i.e P1, P2 and P3 are equal. Determine the ratio of 
+new liquidity to old liquidity in P1.
