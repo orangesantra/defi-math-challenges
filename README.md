@@ -1,1 +1,1 @@
-These are Maths questions on DEFI, basically AMMs leveraging coordinate geometrys. Give them a try. Will try to post more question and you you are welcome to contribute with more questions.
+These are Maths questions on DEFI, basically AMMs leveraging coordinate geometry. Give them a try, will try to post more questions and you are welcome to add more questions.
